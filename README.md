@@ -6,7 +6,8 @@ This repo can help you learn:
 
 - how to parse json APIs
 - how to make a simple PyQt GUI
-  The idea of making it is from my Chinese teacher, Miss Chen. She encourages me finish this app.
+
+The idea of making it is from my Chinese teacher, Miss Chen. She encourages me finish this app.
 
 ## Author
 
